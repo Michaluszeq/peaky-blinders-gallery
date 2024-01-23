@@ -16,6 +16,7 @@ import aberamaImage from './images/aberamaImage.jpg';
 import lindaImage from './images/lindaImage.jpg';
 import billyImage from './images/billyImage.jpg';
 import lucaImage from './images/lucaImage.jpg';
+import curlyImage from './images/curlyImage.jpg';
 
 
 const charactersData = [
@@ -107,8 +108,14 @@ const charactersData = [
   {
     id: 15,
     name: 'Luca Changretta',
-    image: lucaImage,  // Dodaj import dla obrazka Luca Changretta
+    image: lucaImage,  
     description: 'Leader of the Italian gang who poses a threat to the Shelby family.'
+  },
+  {
+    id: 16,
+    name: 'Curly',
+    image: curlyImage,  
+    description: 'Member of the Shelby family and a trusted ally.'
   },
    
 
