@@ -90,19 +90,19 @@ const charactersData = [
    {
     id: 12,
     name: 'Aberama Gold',
-    image: aberamaImage,  // Dodaj import dla obrazka Aberamy Golda
+    image: aberamaImage,  
     description: 'Experienced and dangerous gypsy who becomes involved with the Shelby family.'
   },
   {
     id: 13,
     name: 'Linda Shelby',
-    image: lindaImage,  // Dodaj import dla obrazka Lindy Shelby
+    image: lindaImage,  
     description: 'Wife of Arthur Shelby and member of the Shelby family.'
   },
   {
     id: 14,
     name: 'Billy Grade',
-    image: billyImage,  // Dodaj import dla obrazka Billy'ego Grade'a
+    image: billyImage,  
     description: 'Journalist and writer covering the Shelby family and Birmingham crime scene.'
   },
   {
