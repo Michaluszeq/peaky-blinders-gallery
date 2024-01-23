@@ -147,7 +147,7 @@ function App() {
 
   return (
     <div className="app">
-      {/* Replace the <h1> with the logo */}
+      {}
       <img src={logo} alt="Peaky Blinders Logo" className="logo" />
 
       <div>
